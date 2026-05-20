@@ -1,0 +1,4 @@
+project_work/
+*.swp
+*.tmp
+.DS_Store
